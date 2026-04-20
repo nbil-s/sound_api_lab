@@ -9,12 +9,12 @@
     display: grid;
     place-items: center;
     background: #dadce100;
-    color: #f9fafb;
+    color: #06192d;
   }
   
   .player {
     width: min(92vw, 560px);
-    background: #381c47;
+    background: #9b5ebc;
     border: 1px solid #374151;
     border-radius: 14px;
     padding: 1.2rem;
